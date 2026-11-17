@@ -2,7 +2,9 @@
 
 Curated collection of programming exercises, algorithms, and mini-projects.
 
-**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software Engineer | Full-Stack Development & AI Workflows
+**Author**: [Andrey Quesada](https://github.com/andreyques41) | Software & AI Engineer
+
+> Earlier work (2025, Lyfter full-stack program). For my current work, see [everna-platform](https://github.com/andreyques41/everna-platform) and my [portfolio](https://andreyques41.github.io).
 
 ---
 
@@ -78,4 +80,4 @@ python finance_tracker.py
 
 ---
 
-**GitHub**: [andreyques41/software-engineering-lab](https://github.com/andreyques41/software-engineering-lab)
+**GitHub**: [andreyq-dev/software-engineering-lab](https://github.com/andreyq-dev/software-engineering-lab)
